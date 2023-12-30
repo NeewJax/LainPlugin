@@ -1,0 +1,17 @@
+{
+	"name": "Lain Plugin",
+	"author": "Jax",
+	"version": "1.0.0",
+	"minVersion": "1.129",
+	"supportedVersion": "1.129",
+	"basePackage": "com.jax",
+	"features": [
+		"eu.darkbot.popcorn.def.CaptchaPicker",
+		"eu.darkbot.popcorn.def.PalladiumModule",
+		"eu.darkbot.popcorn.def.AntiPush",
+		"eu.darkbot.popcorn.def.UserAgentUpdater",
+		"eu.darkbot.popcorn.def.SampleModule"
+	],
+	"download": "Download",
+	"update": "update"
+}
